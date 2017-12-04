@@ -19,3 +19,6 @@ If you own the book, finding the corresponding reworked example is straightforwa
 To run the examples you will need [LINQPad](http://www.linqpad.net) version greater then or equal to 5.22.03. You can download LINQPad from its [download page](http://www.linqpad.net/Download.aspx). For your convenience, the version 5.26.01 of LINQPad is included in the [tools](tools) folder of this repository.
 
 Once you have LINQPad running, simple open the LINQ files in LINQPad and execute them.
+
+## License
+Reworked examples are licensed under the [MIT license](https://github.com/ironcev/sharpen/blob/master/LICENSE).
