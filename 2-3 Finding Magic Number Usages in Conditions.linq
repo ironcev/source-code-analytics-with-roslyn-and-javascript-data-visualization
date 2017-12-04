@@ -1,6 +1,6 @@
 <Query Kind="Statements">
-  <Reference Relative="lib\Microsoft.CodeAnalysis.CSharp.dll">C:\p\source-code-analytics-with-roslyn-and-javascript-data-new\lib\Microsoft.CodeAnalysis.CSharp.dll</Reference>
-  <Reference Relative="lib\Microsoft.CodeAnalysis.dll">C:\p\source-code-analytics-with-roslyn-and-javascript-data-new\lib\Microsoft.CodeAnalysis.dll</Reference>
+  <Reference Relative="lib\Microsoft.CodeAnalysis.CSharp.dll" />
+  <Reference Relative="lib\Microsoft.CodeAnalysis.dll" />
   <Namespace>Microsoft.CodeAnalysis</Namespace>
   <Namespace>Microsoft.CodeAnalysis.CSharp</Namespace>
   <Namespace>Microsoft.CodeAnalysis.CSharp.Syntax</Namespace>
