@@ -10,7 +10,7 @@ Of course, as always when I code for learning purposes, I wrote all the code [wi
 
 It turned out that some of my solutions are simpler then those presented in the book and, in my humble opinion, easier to understand. Reworked solutions cover as well not only the "happy path" but also explore "edge cases" that can be expected in reality.
 
-## Finding the Reworked Examples
+## Finding a Concrete Reworked Example
 
 If you own the book, finding the corresponding reworked example is straightforward. Each reworked example is a single LINQ file. The name of the LINQ file is same as the listing of the corresponding example in the book. For example, the file *2-1 Finding Magic Number Usages in Mathematical Expressions.linq* corresponds to the *Listing 2-1. Finding Magic Number Usages in Mathematical Expressions* in the book.
 
