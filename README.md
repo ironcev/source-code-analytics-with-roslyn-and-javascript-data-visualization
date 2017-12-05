@@ -21,4 +21,9 @@ To run the examples you will need [LINQPad](http://www.linqpad.net) version grea
 Once you have LINQPad running, simple open the LINQ files in LINQPad and execute them.
 
 ## License
-Reworked examples are licensed under the [MIT license](https://github.com/ironcev/sharpen/blob/master/LICENSE).
+
+The reworked examples are neither licensed nor copyrighted. You can do whatever you want with them as long as you don't say you created them yourself ;-) In case of (re)use, providing a link to this GitHub repository would be highly appreciated, but it's not mandatory.
+
+<p align="center">
+    <a href="http://mimiandeunice.com/"><img src="without-copyright-law.png" alt="Mimi & Eunice - Without Copyright Law?" style="max-width:100%;"></a>
+</p>
